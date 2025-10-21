@@ -58,7 +58,7 @@ const Footer = () => {
             </div>
             <div className="text-sm hover:text-gray-300 mx-2">
               <h3 className="text-sm font-semibold text-cyan-300">Oficina:</h3>
-              Av.Las Condes 10.465 of 202
+              Av. Las Condes 10465 of. 318
             </div>
           </div>
         </div>
