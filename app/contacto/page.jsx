@@ -49,7 +49,7 @@ const page = () => {
 
           <div>
             <h3 className="text-xl font-bold text-gray-800 mt-8">Dirección</h3>
-            <p className="text-gray-600">Av.Las Condes 10.465 of 202</p>
+            <p className="text-gray-600">AAv. Las Condes 10465 of. 318</p>
           </div>
         </div>
         <ContactForm />
